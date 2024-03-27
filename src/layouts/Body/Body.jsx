@@ -8,4 +8,4 @@ function Body({ children }) {
 	);
 }
 
-export default Body; 
+export default Body;
